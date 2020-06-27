@@ -1,0 +1,7 @@
+.header .menu li.active a{
+  color: orange;
+}
+
+.wpcf7-response-output{
+	display : none!important;
+}
